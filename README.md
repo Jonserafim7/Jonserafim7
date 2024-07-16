@@ -18,7 +18,7 @@ I'm currently diving deeper into:
 
 ### 💬 Let's Connect
 
-I'm always open to new opportunities and collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jonas-serafim-86a588281/) or check out my ([link-to-portfolio](https://jonasfrontdev.netlify.app/))for more details on my work.
+I'm always open to new opportunities and collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jonas-serafim-86a588281/) or check out my ([Portfolio](https://jonasfrontdev.netlify.app/))for more details on my work.
 
 
 <!---
