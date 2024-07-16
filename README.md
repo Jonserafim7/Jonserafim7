@@ -12,9 +12,8 @@ Here's a little bit more about me:
 
 I'm currently diving deeper into:
 
-- Advanced React patterns
-- TypeScript
-- Web performance optimization
+- PHP
+- Flutter
 
 ### 💬 Let's Connect
 
