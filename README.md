@@ -5,7 +5,7 @@ Here's a little bit more about me:
 
 - 🌐 **Interest**: I am deeply focused on front-end development, enjoying the process of creating intuitive and interactive interfaces. I thrive on solving complex problems and implementing user-centric solutions. Exploring new technologies, optimizing performance, and enhancing accessibility are some of the aspects I find most exciting in this field.
 - 🎓 **Education**:
-  - I'm currently studying Analysis and Systems Development at Faculdade Einstein de Limeira.
+  - I'm currently studying Analysis and Systems Development at Faculdade Einstein de Limeira. This program has provided me with a strong foundation in both theoretical and practical aspects of software development.
   - I've just completed the Frontend Developer Career Path on Scrimba, where I honed my skills in HTML, CSS, JavaScript, and React.
 
 ### 🌱 Currently Learning
