@@ -12,8 +12,7 @@ Here's a little bit more about me:
 
 I'm currently diving deeper into:
 
-- PHP
-- Flutter
+- NodeJs
 
 ### 💬 Let's Connect
 
